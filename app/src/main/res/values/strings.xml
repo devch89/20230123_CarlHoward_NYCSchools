@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20230123_carlhoward_nycschools</string>
+    <string name="sat_na">sat scores are unavailable!</string>
+    <string name="sat_takers">students tested(sat): </string>
+    <string name="sat_read">sat reading score:</string>
+    <string name="sat_write">sat writing score:</string>
+    <string name="sat_math">sat math score:</string>
+    <string name="sat_details">student scores(avg):</string>
+</resources>
